@@ -1,0 +1,85 @@
+Terms of Service for Minna de Memoru Map (みんなでメモるマップ)
+
+Article 1 (Purpose)
+ The purpose of these Terms of Service (the "Terms") is to define the terms and conditions of use, procedures, and the rights, obligations, and responsibilities of "Minna de Memoru Map (みんなでメモるマップ)" (the "Service") and its users.
+
+Article 2 (Effectiveness and Amendment of Terms)
+1.The contents of these Terms shall take effect when posted on the Service screen or notified to users by other means.
+2.The Service provider may amend these Terms to the extent that they do not violate relevant laws.
+3.In the event of an amendment, the Service will notify users 7 days prior to the effective date (30 days for significant or disadvantageous changes).
+4.Users who do not agree to the amended Terms may terminate their account. Continued use after the effective date is deemed as consent to the changes.
+
+Article 3 (Contents of the Service) The Service provides the following features:
+1.Map display and location search using Google Maps API.
+2.Creating and saving memos (text, photos, etc.) at specific locations.
+3.Creating groups to invite acquaintances and share memos in real-time.
+4.Providing and recording location-based information.
+
+Article 4 (Registration and Account)
+1.Users may use the Service by creating an account according to the prescribed procedures.
+2.Integration with third-party platforms (Apple, Google, etc.) is planned for future updates; currently, the Service uses its own account system.
+
+Article 5 (Location-Based Services)
+1.The Service collects location data for displaying the user's current location, saving memos at specific coordinates, and searching for nearby memos.
+2.The Service complies with relevant location information protection laws. Users may refuse consent at any time, though this may limit core features.
+
+Article 6 (Data Storage and Management)
+1.Memos and photos uploaded by users are stored on cloud servers (e.g., AWS Amplify) for service operation.
+2.The Service does not provide user data to third parties without consent, and users may delete their posts at any time.
+
+Article 7 (User Obligations and Prohibited Actions) Users shall not engage in the following:
+1.Stealing others' information or interfering with the normal operation of the Service.
+2.Posting harmful content (obscene, violent, defamatory, etc.) that goes against public order and morals.
+3.Infringing upon the copyright or portrait rights of others.
+
+Article 8 (Paid Services and Payments)
+1.The Service is currently provided free of charge.
+2.Paid features (subscriptions, additional storage, etc.) may be introduced in the future. In such cases, payment and refund policies will be governed by a separate policy and notified in advance.
+
+Article 9 (Disclaimer)
+1.The Service is not liable for service interruptions caused by natural disasters, server maintenance, or communication failures beyond its control.
+2.The Service does not guarantee the accuracy of map data or information provided and is not responsible for disputes between users.
+
+
+
+Privacy Policy
+
+"Minna de Memoru Map (みんなでメモるマップ)" (hereinafter referred to as the "Service") establishes and discloses the following Privacy Policy to protect the personal information of users and to handle related grievances promptly and smoothly.
+
+Article 1 (Purpose of Processing Personal Information) The Service processes personal information for the following purposes. The information will not be used for purposes other than those stated below, and if the purpose changes, necessary measures such as obtaining separate consent will be implemented.
+1.Member Registration and Management: Confirmation of intent to join, identification/authentication for providing membership services, maintenance/management of membership, and prevention of fraudulent use of services.
+2.Provision of Services: Creation and sharing of map-based memos, provision of group services, and provision of location-based information.
+
+Article 2 (Items of Personal Information Processed) The Service collects the minimum personal information necessary to provide the services.
+1.Required Items: Email address, password, nickname, Unique User Identifier (UUID).
+2.Items Automatically Collected/Generated: Real-time location information (GPS), access logs, cookies, device information (model name, OS version).
+3.Content Data: Memo text and photo files uploaded directly by the user.
+
+Article 3 (Processing and Retention Period of Personal Information)
+1.The Service processes and retains personal information within the period of retention and use agreed upon at the time of collection.
+2.Retention Period: From the time of registration until account deletion.
+3.Upon account deletion, the Service will destroy the user's personal information and content data without delay. (Except where preservation is required by relevant laws and regulations).
+
+Article 4 (Processing of Location Information)
+1.The Service collects location information from the user's device to provide location-based services.
+2.Users can refuse the collection of location information through device settings; however, in this case, the use of features such as "my location" on the map and location-based memo creation may be restricted.
+
+Article 5 (Provision of Personal Information to Third Parties and Entrustment)
+1.In principle, the Service does not provide users' personal information to external parties.
+2.For smooth technical operation, the processing of personal information is entrusted as follows:•Entrusted Party: Amazon Web Services (AWS)•Details of Entrusted Work: Service infrastructure operation, data storage (Amplify/S3/DynamoDB), and member authentication management.
+
+Article 6 (Rights/Obligations of Users and Methods of Exercise)
+1.Users may view or modify their personal information at any time and exercise their rights by deleting their account.
+2.When a user withdraws via the [Delete Account] function in the app, the user's data stored on the server is deleted immediately.
+
+Article 7 (Destruction of Personal Information)
+1.The Service destroys personal information without delay when it becomes unnecessary, such as the expiration of the retention period or achievement of the processing purpose.
+2.Information in electronic file format is deleted using technical methods that prevent the reproduction of the records.
+
+Article 8 (Measures to Ensure the Safety of Personal Information) The Service takes the following measures to protect personal information:
+1.Administrative Measures: Establishment and implementation of internal management plans.
+2.Technical Measures: Management of access rights to personal information processing systems, encryption of passwords, and installation of security programs.
+
+Article 9 (Privacy Officer) The Service is responsible for overall personal information processing and designates a Privacy Officer to handle complaints and damage relief.
+•Name/Nickname: Hoya
+•Contact: zzan777@gmail.com
